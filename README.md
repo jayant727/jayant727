@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayant727
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ....NET
-- 💞️ I’m looking to collaborate on ...Nothing Earphones
+- 💞️ I’m looking to collaborate on ...open Source
 - 📫 How to reach me ...jkataria727@gmai.com
 
 <!---
